@@ -1,7 +1,5 @@
 import React from "react"
 
 export default () => (
-  <div style={{ color: `purple`, fontSize: `72px` }}>
-    Hello Gatsby! sandaruwan
-  </div>
+  <div style={{ color: `purple`, fontSize: `72px` }}>Hello Gatsby! test</div>
 )
